@@ -17,7 +17,7 @@ Perlin noise is a gradient noise function that generates smooth, continuous, and
 
 ## File Structure
 
-- `FINAL_Konsing_ProgrammingAssignment1.ipynb`: The Jupyter notebook containing the implementation and visualization of Perlin noise.
+- `PerlinNoise.ipynb`: The Jupyter notebook containing the implementation and visualization of Perlin noise.
 
 ## Setup Instructions
 
